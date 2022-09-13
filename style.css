@@ -347,7 +347,7 @@ and (orientation: portrait) {
         width: 100px;
     }
 
-    .main-container {
+    .main-container, .main-container1 {
         display: grid;
         grid-template-columns: repeat(1, 1fr);
         grid-gap: 1em;
