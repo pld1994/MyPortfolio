@@ -348,6 +348,17 @@ p {
             display: none;
         }
 
+        .nav-container h2 {
+            font-size: 13px;
+        }
+
+        section2.banner .title-container h1 {
+            font-size: 16px;
+        }
+
+        p {
+            font-size: 16px;
+        }
        
         .title-container {
             padding: 0;
